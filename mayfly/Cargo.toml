@@ -18,7 +18,7 @@ thiserror.workspace = true
 tokio.workspace = true
 
 [dependencies.zip]
-version = "0.6"
+version = "9.0"
 default-features = false
 features = ["deflate", "time"]
 
